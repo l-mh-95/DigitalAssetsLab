@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "12341234",
+    "owner": "123412"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "AWQERQ",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
